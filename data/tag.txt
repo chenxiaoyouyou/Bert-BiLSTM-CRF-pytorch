@@ -1,0 +1,7 @@
+<pad>
+B-PER
+I-PER
+E-PER
+O
+<start>
+<eos>
